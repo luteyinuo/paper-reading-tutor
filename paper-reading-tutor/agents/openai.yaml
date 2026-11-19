@@ -1,0 +1,3 @@
+interface:
+  display_name: "互动式论文导读"
+  short_description: "先了解阅读目标和基础，再逐轮讲原文图表、手算公式并根据回答补讲"
